@@ -1,0 +1,9 @@
+C:\Users\James\Documents\GitHub\tellus-rover\TellusRemote\TellusRemote\bin\Debug\TellusRemote.exe.config
+C:\Users\James\Documents\GitHub\tellus-rover\TellusRemote\TellusRemote\bin\Debug\TellusRemote.exe
+C:\Users\James\Documents\GitHub\tellus-rover\TellusRemote\TellusRemote\bin\Debug\TellusRemote.pdb
+C:\Users\James\Documents\GitHub\tellus-rover\TellusRemote\TellusRemote\obj\Debug\TellusRemote.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\GitHub\tellus-rover\TellusRemote\TellusRemote\obj\Debug\TellusRemote.Properties.Resources.resources
+C:\Users\James\Documents\GitHub\tellus-rover\TellusRemote\TellusRemote\obj\Debug\TellusRemote.csproj.GenerateResource.Cache
+C:\Users\James\Documents\GitHub\tellus-rover\TellusRemote\TellusRemote\obj\Debug\TellusRemote.exe
+C:\Users\James\Documents\GitHub\tellus-rover\TellusRemote\TellusRemote\obj\Debug\TellusRemote.pdb
+C:\Users\James\Documents\GitHub\tellus-rover\TellusRemote\TellusRemote\obj\Debug\TellusRemote.ConnectWindow.resources
