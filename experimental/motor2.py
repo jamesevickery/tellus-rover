@@ -41,18 +41,25 @@ def drive_motor(motor_index, direction=1):
 def main():
     define_motors()
     gpio_setup()
-    
 
-    
-    
 
-    
-    #drive_motor(1, 1)
-    #sleep(3)
-    #drive_motor(1, 0)
-    #sleep(3)
-    #drive_motor(1, -1)
-    #sleep(3)
+    drive_motor(0, 1)
+    sleep(2)
+    drive_motor(0, 0)
+    sleep(2)
+    drive_motor(0, -1)
+    sleep(2)
+    drive_motor(0, 0)
+    sleep(2)
+
+    drive_motor(1, 1)
+    sleep(2)
+    drive_motor(1, 0)
+    sleep(2)
+    drive_motor(1, -1)
+    sleep(2)
+    drive_motor(1, 0)
+    sleep(2)
     
     GPIO.cleanup()
 
