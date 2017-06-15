@@ -8,3 +8,5 @@
 - I can't be bothered to write much up about it, but maybe oneday I'll attach a pretty photo of it.
 - The only stuff I was actually writing is in the `experimental` folder. The keypress control stuff is in `motor3.py`.
 - Writing this made me wonder why there wasn't a Python library for it somewhere on Github, hence [github.com/jamesevickery/l293d](https://github.com/jamesevickery/l293d) was born. At time of writing, this new repository is still in ongoing development.
+
+_Update June 2017:_ The car wasn't very good - too heavy, bad motors etc. However, I've started making a [better one](https://github.com/jamesevickery/tellus-rover-v2)!
